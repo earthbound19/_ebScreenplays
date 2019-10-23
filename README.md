@@ -6,10 +6,11 @@ This is a collection of original screenplays dedicated to the Public Domain so t
 
 I hope to add specific commands/steps to these instructions for people new to git, but in brief:
 
-- Clone this repo.
+- Clone this repo and checkout the `drafts-submissions` branch.
 - Create a new, original screenplay in it, in [fountain format](https://fountain.io/). Copy and use [screenplay_template.fountain](screenplay_template.fountain) as a template, rewriting and renaming it to your screenplay.
 - Expressly dedicate the work you submit to the public domain in the copyright section of the fountain text source itself. If you do not do this your pull request will be rejected. Only dedicate it to the Public Domain  if you actually had legal copyright control of the work before dedicating it to the Public Domain (for example, if it is an original work which you wrote yourself).
 - Only create new files and avoid name conflicts. For works with the same title, avoid conflicts by adding random characters like `eDbJcR` or `uTY4T6` to the end of the file name (before the `.fountain` extension).
+- Create a new branch named after your screenplay (also avoid branch name conflicts), and add, commit and push your screenplay to your branch.
 - Open a pull request.
 
 ### License
