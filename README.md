@@ -15,7 +15,7 @@ I hope to add specific commands/steps to these instructions for people new to gi
 
 ### License
 
-Public Domain.
+Public Domain. Various subfolders may have .txt files names after the project folders with their various expressions of purposes for the Public Domain Dedication.
 
 ## Conversion of fountain to pdf
 
