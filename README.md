@@ -1,10 +1,12 @@
 # A collection of Public Domain screenplays
 
-This is a collection of original screenplays dedicated to the Public Domain so that anyone can use them for any (ethical) purpose. Contributions to this collection are welcome. This is not intended as a general library of screenplays which happen to be in the Public Domain through copyright expiry or neglect. It is intended as a library of screenplays which are new at the time they are submitted to the library, and which are original. Adaptations of works in the Public Domain (which were not originally screenplays) are also welcome.
+This is a collection of screenplays. Screenplays may be variously licensed, e.g. from the range of copyrighted ("All rights reserved), to open licenses (e.g. Creative Commons) or no license (Public Domain).
 
-# License
+Contributions to this collection are welcome. Where some works in this collection are Public Domain, this is not intended as a general library of screenplays which happen to be in the Public Domain through copyright expiry or neglect. It is intended as a library of screenplays which are new at the time they are submitted to the library, and which are original. Adaptations of works in the Public Domain (which were not originally screenplays) are also welcome.
 
-Public Domain. Various subfolders may have .txt files names after the project folders with their various expressions of purposes for the Public Domain Dedication.
+# Licenses
+
+All screenplays express their license in the screenplay file itself.
 
 # Contributions
 
