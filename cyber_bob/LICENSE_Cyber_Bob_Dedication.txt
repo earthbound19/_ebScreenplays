@@ -1,1 +1,67 @@
-The Cyber Bob dramatic concept and screenplays which I write and deposit at various places on the internet are my original work, and/or the work of other contributors who have by submission of their work work to this collection expressly and irrevocably dedicated them to the Public Domain, as I also do, for these purposes: So that any one may freely adapt them, create other works inspired by them, for any purpose commercial or non-commercial, and particularly, to feel free to produce from the scripts at any production level (from low-end amateur video to high-end, using simple hand drawn cartoons or CGI), and also in a spirit of very open adaptation for any purpose, including very flexibly altering the ages, ethnicities, and genders of characters--maybe even their names ("BOB" could for example be changed to "BARBARA"). Part of the intent also is the possibility of a largely open-ended web series, which anyone may contribute to. (Drastically changing character names wouldn't work for that intent of any kind of continuity.) A git repository folder of these screenplays which anyone may contribute to is at: https://github.com/earthbound19/_ebScreenplays/tree/master/cyber_bob See also the README at: https://github.com/earthbound19/_ebScreenplays/blob/master/README.md
+SCREENPLAY CONVENTIONS AND UNIVERSE LICENSE.
+
+SCREENPLAY CONVENTIONS.
+All screenplays in this universe should link to this document
+to explain matters and introduce characters (to conserve virtual
+breath and actual space), by including this URL in a note:
+http://s.earthbound.io/CyberBobUniverse
+
+Follows a list of effects to be referenced (for brevity)
+in any screenplay, and dramatis personae (by way of introduction
+to any new reader) :
+
+- CYBER BOB CHARACTER INTRODUCTION
+CYBER BOB, 40, a white man,
+a mild, goofy,
+fairly daft pawn of a soul
+
+- MARGARET CHARACTER INTRODUCTION
+MARGARET, 37, a white woman,
+amicable, mild, curious, and very sharp
+
+- CYBER BOSS CHARACTER INTRODUCTION
+CYBER BOSS, an ageless,
+faceless,
+voiceless,
+genderless,
+world-roaming cloud
+which transmits instructions
+to the smart phones of any
+willing or unwilling recipient
+
+- CYBER BOSS ALERT EFFECT
+Stereotype sci-fi electric gizmo or radio sounds
+emit from the [Cyber Boss] cloud,
+and a stream of blue wavy "radio" lines
+and small stereotype thunder bolt symbols
+emanate from it
+and enter the recipient's phone.
+[The recipient does not need to be in
+apparent range of the cloud, nor does
+the cloud need to visibly appear.]
+
+CYBER BOB UNIVERSE LICENSE AND PURPOSE.
+The Cyber Bob Universe is a dramatic concept and collection of
+creative works which are all expressly and irrevocably dedicated
+to the Public Domain, by anyone who contributes to the project.
+
+This is to encourage free creative play, commercialization,
+or anything else hinging off the creative works.
+
+Especially, it is to encourage anyone to create anything at any
+level of skill from low-end amateur video to high-end, for example
+anything from using simple hand drawn cartoons or CGI to professional
+staging and effects, and also in a spirit of very open adaptation for
+any purpose, including very flexibly altering the ages, ethnicities,
+and genders of characters--maybe even their names ("BOB" could for
+example be changed to "BARBARA").
+
+COLLECTED SCREENPLAYS ETC.
+A git repository folder of these screenplays which anyone may
+contribute to is at:
+
+http://s.earthbound.io/CyberBobScreenplays
+(See the README.md in that code repository)
+
+The master copy of this license is at:
+http://s.earthbound.io/CyberBobUniverse
