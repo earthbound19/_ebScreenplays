@@ -1,0 +1,70 @@
+SCREENPLAY CONVENTIONS AND UNIVERSE LICENSE.
+
+ALL SCREENPLAYS IN THE CYBER BOB UNIVERSE are in the Public Domain.
+See CYBER BOB UNIVERSE LICENSE AND PURPOSE, below.
+
+SCREENPLAY CONVENTIONS.
+All screenplays in this universe should link to this document
+to explain matters and introduce characters (to conserve virtual
+breath and actual space), by including this URL in a note:
+http://s.earthbound.io/CyberBobUniverse
+
+Follows a list of effects to be referenced (for brevity)
+in any screenplay, and dramatis personae (by way of introduction
+to any new reader) :
+
+- CYBER BOB CHARACTER INTRODUCTION
+CYBER BOB, 40, a white man,
+a mild, goofy,
+fairly daft pawn of a soul
+
+- MARGARET CHARACTER INTRODUCTION
+MARGARET, 37, a white woman,
+amicable, mild, curious, and very sharp
+
+- CYBER BOSS CHARACTER INTRODUCTION
+CYBER BOSS, an ageless,
+faceless,
+voiceless,
+genderless,
+world-roaming cloud
+which transmits instructions
+to the smart phones of any
+willing or unwilling recipient
+
+- CYBER BOSS ALERT EFFECT
+Stereotype sci-fi electric gizmo or radio sounds
+emit from the [Cyber Boss] cloud,
+and a stream of blue wavy "radio" lines
+and small stereotype thunder bolt symbols
+emanate from it
+and enter the recipient's phone.
+[The recipient does not need to be in
+apparent range of the cloud, nor does
+the cloud need to visibly appear.]
+
+CYBER BOB UNIVERSE LICENSE AND PURPOSE.
+The Cyber Bob Universe is a dramatic concept and collection of
+creative works which are all expressly and irrevocably dedicated
+to the Public Domain, by anyone who contributes to the project.
+
+This is to encourage free creative play, commercialization,
+or anything else hinging off the creative works.
+
+Especially, it is to encourage anyone to create anything at any
+level of skill from low-end amateur video to high-end, for example
+anything from using simple hand drawn cartoons or CGI to professional
+staging and effects, and also in a spirit of very open adaptation for
+any purpose, including very flexibly altering the ages, ethnicities,
+and genders of characters--maybe even their names ("BOB" could for
+example be changed to "BARBARA").
+
+COLLECTED SCREENPLAYS ETC.
+A git repository folder of these screenplays which anyone may
+contribute to is at:
+
+http://s.earthbound.io/CyberBobScreenplays
+(See the README.md in that code repository)
+
+The master copy of this license is at:
+http://s.earthbound.io/CyberBobUniverse
