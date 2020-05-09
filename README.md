@@ -20,7 +20,7 @@ To contribute a new work, do this (you must have git installed) :
 - Clone your fork to your local computer, e.g. `git clone https://github.com/YOUR_USERNAME/_ebScreenplays.git` 
 - `cd` into or open a terminal into the newly cloned repo, e.g.: `cd _ebScreenplays`, then run these commands (adapting to your needs):
 - `git checkout drafts-submissions`
-- `git checkout -b branch-named-after-your-new-screenplay` (it doesn't matter if you later change your screenplay name. This branch can actually be named anything, like `i-dont-know-what-to-call-this-79FJ`)
+- `git checkout -b branch-named-after-your-new-screenplay` (it doesn't matter if you later change your screenplay name; this branch can actually be named anything, like `i-dont-know-what-to-call-this-79FJ`).
 - Create a new, original screenplay in it, in [fountain format](https://fountain.io/). You may copy the [screenplay_template.fountain](screenplay_template.fountain) template into the `drafts_submissions` folder and rename it to whatever your working title is.
 - Expressly declare either your copyright or Public Domain dedication in the copyright section of the fountain file of your original work. NOTE: entries in the Cyber Bob universe (see the `cyber_bob` folder) _must_ be dedicated to the Public Domain, or they will not be accepted.
 - To avoid file name conflicts where files would otherwise be named the same, it is good practice to append some random characters to your fountain file name, like `PJdbR`, `X8Ht7`, `8YC8U`, or `4sBCV`.
@@ -61,6 +61,6 @@ To make a PNG 2nd-page preview from a screenplay see [pdfScreenplayPreviewPNG.sh
 
 The only thing you need to know to write screenplays is a few technical things you can learn that are built into the fountain format, and a love of stories and storytelling, and to write in a way that can be immediately rendered sensible and/or literal to actors and cinematographers.
 
-Do not let anybody fool you that you need to know anything more than that. Just follow your guts, wits, and heart. That is all.
+Just follow your guts, wits, heart, and sillies. That is all. If your heart has been ripped out by life and is telling you never to be silly (or it can't, because it's on an alter cut up somewhere), I'm sorry. Go back in time and hang out with the Greek traged . . . ists. Oh snap! You can't.
 
 Also, don't let anyone mislead you that there is any foolproof formula for creative writing. There absolutely positively _is not_. As William Goldman, the Oscar-winning writer of screenplays for “All the President's Men” and “Butch Cassidy and the Sundance Kid" said: "Nobody knows anything." Anyone who tells you otherwise is full of balogna. Cinema history is riddled with "structurally perfect" screenplays and "high concept" films that fell flat on their faces and deserved too. Cinema history is also full of gloriously imperfect things that succeeded and deserved to (and did not succeed but deserved to).
