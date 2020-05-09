@@ -6,11 +6,11 @@ I prefer Public Domain so that anyone can use these for any (ethical) purpose.
 
 Contributions to this collection are welcome.
 
-I will probably not collect screenplays which happen to be in the Public Domain; only new original works which the authors licence or dedicate for whatever purpose. However, adaptations of works in the Public Domain (which were not originally screenplays) are also welcome.
+I will probably not collect screenplays which happen to be in the Public Domain; only new original works which the authors license or dedicate for whatever purpose. However, adaptations of works in the Public Domain (which were not originally screenplays) are also welcome.
 
 # License
 
-Whatever is declared in each `.fountain` file in this repository is the licence.
+Whatever is declared in each `.fountain` file in this repository is the licence. Works in the Cyber Bob universe (see the `cyber_bob`) folder are all dedicated to the Public Domain.   
 
 # Contributions
 
@@ -22,7 +22,7 @@ To contribute a new work, do this (you must have git installed) :
 - `git checkout drafts-submissions`
 - `git checkout -b branch-named-after-your-new-screenplay` (it doesn't matter if you later change your screenplay name. This branch can actually be named anything, like `i-dont-know-what-to-call-this-79FJ`)
 - Create a new, original screenplay in it, in [fountain format](https://fountain.io/). You may copy the [screenplay_template.fountain](screenplay_template.fountain) template into the `drafts_submissions` folder and rename it to whatever your working title is.
-- Expressly declare either your copyright or Public Domain dedication in the copyright section of the fountain file of your original work.
+- Expressly declare either your copyright or Public Domain dedication in the copyright section of the fountain file of your original work. NOTE: entries in the Cyber Bob universe (see the `cyber_bob` folder) _must_ be dedicated to the Public Domain, or they will not be accepted.
 - To avoid file name conflicts where files would otherwise be named the same, it is good practice to append some random characters to your fountain file name, like `PJdbR`, `X8Ht7`, `8YC8U`, or `4sBCV`.
 - As you write, periodically save, add and commit your work to your branch. Please look up and learn the git `add` and `commit` commands to do this, if you need to.
 - _Finish writing your work_. Don't weasel out of it! Finish it! _Do it!_
